@@ -1,6 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
+  "homepage": "https://github.com/ivannaspas11/lab13",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
