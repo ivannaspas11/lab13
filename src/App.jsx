@@ -1,8 +1,8 @@
 import "./styles.css";
-import TodoApp from "./components/TodoApp/TodoApp";
-import ShoppingApp from "./components/ShoppingApp/ShoppingApp";
-import ImageGalleryApp from "./components/ImageGallery/ImageGalleryApp";
-import KanbanBoardApp from "./components/KanbanBoard/KanbanBoardApp";
+import TodoApp from "./components/TodoApp/TodoApp.jsx";
+import ShoppingApp from "./components/ShoppingApp/ShoppingApp.jsx";
+import ImageGalleryApp from "./components/ImageGallery/ImageGalleryApp.jsx";
+import KanbanBoardApp from "./components/KanbanBoard/KanbanBoardApp.jsx";
 
 function App() {
   return (
@@ -11,7 +11,6 @@ function App() {
         Лабораторна робота: React Застосунки
       </h1>
       <TodoApp />
-      апичапичаптчпртпсррпррпрпрнрнрн
       <ShoppingApp />
       <ImageGalleryApp />
       <KanbanBoardApp />
