@@ -11,6 +11,7 @@ function App() {
         Лабораторна робота: React Застосунки
       </h1>
       <TodoApp />
+      апичапичаптчпртпсррпррпрпрнрнрн
       <ShoppingApp />
       <ImageGalleryApp />
       <KanbanBoardApp />
