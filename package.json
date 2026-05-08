@@ -1,7 +1,6 @@
 {
   "name": "lab13",
   "version": "1.0.0",
-  "homepage": "https://ivannaspas11.github.io/lab13/",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
