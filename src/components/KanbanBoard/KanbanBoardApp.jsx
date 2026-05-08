@@ -4,7 +4,7 @@ import KanbanColumn from "./KanbanColumn";
 const INITIAL_TASKS = [
   { id: 1, text: "Вивчити React", status: "todo" },
   { id: 2, text: "Налаштувати Vite", status: "in-progress" },
-  { id: 3, text: "Задеплоїти на GitHub", status: "todo" },
+  { id: 3, text: "Задеплоїти на Vercel", status: "todo" },
 ];
 
 export default function KanbanBoardApp() {
